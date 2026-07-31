@@ -1,1 +1,4 @@
-{"nbformat":4,"nbformat_minor":0,"metadata":{"colab":{"provenance":[],"authorship_tag":"ABX9TyPBz3r6UMJccYCZCXXg94l6"},"kernelspec":{"name":"python3","display_name":"Python 3"},"language_info":{"name":"python"}},"cells":[{"cell_type":"code","execution_count":1,"metadata":{"colab":{"base_uri":"https://localhost:8080/"},"id":"A6TGgBnj8EuC","executionInfo":{"status":"ok","timestamp":1785497510742,"user_tz":-330,"elapsed":17,"user":{"displayName":"Yogalakshmi","userId":"01813290642163181328"}},"outputId":"bb8b4770-4c6a-4d2c-fdab-f1c304e238c2"},"outputs":[{"output_type":"stream","name":"stdout","text":["requirements.txt created successfully!\n"]}],"source":["requirements = \"\"\"streamlit\n","tensorflow\n","numpy\n","Pillow\n","\"\"\"\n","\n","with open(\"requirements.txt\", \"w\") as f:\n","    f.write(requirements)\n","\n","print(\"requirements.txt created successfully!\")"]}]}
+streamlit
+tensorflow
+numpy
+Pillow
